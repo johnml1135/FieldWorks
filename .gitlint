@@ -2,5 +2,5 @@
 regex-style-search=true
 
 [ignore-by-body]
-regex=^Agent-Logs-Url:
+regex=Agent-Logs-Url:
 ignore=B1

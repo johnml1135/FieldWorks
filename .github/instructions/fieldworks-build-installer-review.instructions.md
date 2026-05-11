@@ -1,5 +1,5 @@
 ---
-applyTo: ".github/workflows/**,Build/**,scripts/**,*.ps1,*.proj,*.targets,*.props,Directory.Packages.props,FLExInstaller/**"
+applyTo: "{.github/workflows/**,Build/**,scripts/**,*.ps1,*.proj,*.targets,*.props,Directory.Packages.props,FLExInstaller/**}"
 name: "fieldworks-build-installer-review"
 description: "Copilot code review checks for FieldWorks build, CI, dependency, installer, and PowerShell changes"
 ---

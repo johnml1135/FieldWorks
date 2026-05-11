@@ -1,5 +1,5 @@
 ---
-applyTo: "Src/Utilities/pcpatrflex/**,Src/Utilities/AlloVarGen/**,Src/LexText/ParserCore/**,Src/LexText/Morphology/**,Src/LexText/Interlinear/**"
+applyTo: "Src/{Utilities/pcpatrflex,Utilities/AlloVarGen,LexText/ParserCore,LexText/Morphology,LexText/Interlinear}/**"
 name: "fieldworks-parser-utilities-review"
 description: "Copilot code review checks for parser, morphology, interlinear, PCPATR, and Allomorph Generator changes"
 ---

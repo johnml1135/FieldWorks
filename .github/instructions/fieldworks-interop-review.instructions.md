@@ -1,5 +1,5 @@
 ---
-applyTo: "Src/Common/ViewsInterfaces/**,Src/views/**,Src/Generic/**,Src/Kernel/**,**/*.{cpp,h,hpp,ixx,def}"
+applyTo: "{Src/Common/ViewsInterfaces/**,Src/views/**,Src/Generic/**,Src/Kernel/**,**/*.cpp,**/*.h,**/*.hpp,**/*.ixx,**/*.def}"
 name: "fieldworks-interop-review"
 description: "Copilot code review checks for native, C++/CLI, COM, and managed/native boundary changes"
 ---
